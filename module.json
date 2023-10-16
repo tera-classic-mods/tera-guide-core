@@ -1,0 +1,16 @@
+{
+    "disableAutoUpdate": false,
+    "name": "tera-guide-core",
+    "options": {
+        "niceName": "Guide Core (Classic)",
+        "guiName": "tera-guide-core"
+    },
+    "author": "HSDN",
+    "description": "TERA-Guide module library.",
+    "servers": ["https://raw.githubusercontent.com/tera-classic-mods/tera-guide-core/master/"],
+    "supportUrl": "https://github.com/hsdn/tera-guide/issues",
+    "dependencies": {
+        "library": "https://raw.githubusercontent.com/tera-classic-toolbox/library/master/module.json",
+        "badgui-fix": "https://raw.githubusercontent.com/tera-classic-toolbox/badgui-fix/master/module.json"
+    }
+}
